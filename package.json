@@ -1,0 +1,14 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "This assignment will help you get started working with Node.js by hacking your way through creating a webserver from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "author": "harivig",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
